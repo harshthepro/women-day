@@ -28,7 +28,7 @@ body {
   height: 100%;
   filter: blur(0.1vmin);
   background: linear-gradient(rgba(255, 255, 255, 0.77), rgba(255, 39, 125, 0.84)), 
-              url('./img/background.jpg');
+              url('./image/background.jpg');
   background-size: cover;
   background-position: center;
   z-index: -1;
